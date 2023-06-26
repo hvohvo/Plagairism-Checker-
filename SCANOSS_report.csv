@@ -1,0 +1,3 @@
+inventory_id,path,detected_usage,detected_component,detected_license,detected_version,detected_latest,detected_purls
+1,/app.py,snippet,Plagiarism-checker-Python,n/a,bba4881,3fb55b9,pkg:github/kalebu/plagiarism-checker-python
+2,/requirements.txt,dependency,scikit-learn,BSD-3-Clause,0.24.2,n/a,pkg:pypi/scikit-learn
